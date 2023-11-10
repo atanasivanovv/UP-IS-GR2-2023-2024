@@ -1,5 +1,10 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Practice functions!" << std::endl;
+     int number = 0;
+
+     switch (number) {
+        case 1: case 2:
+        case 0: std::cout << "Hello!";
+     }
 }
