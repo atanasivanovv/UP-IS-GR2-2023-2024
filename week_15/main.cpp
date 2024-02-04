@@ -10,5 +10,6 @@ void printArr(int arr[], int n)
 
 int main()
 {
+    std::cout << "test";
     return 0;
 }
